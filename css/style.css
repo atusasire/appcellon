@@ -1,0 +1,23 @@
+div.front-one {
+	background: url('../images/bg.jpeg');
+	background-size: cover;
+	min-height: 400px;
+}
+
+.navbar-default {
+	background: none !important;
+	border: none;
+}
+
+nav li a {
+	color: #fff;
+	font-weight: bold;
+}
+
+.landing {
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 1px orange;
+	padding: 50px;
+	font-size: 4em;
+}
